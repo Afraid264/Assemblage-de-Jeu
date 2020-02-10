@@ -1,4 +1,4 @@
-# Assemblage-de-Jeu
+# Assemblage-de-Jeux
 Plusieurs jeux disponible, le joueur choisit sa méthode de jeu
 
 
